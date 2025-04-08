@@ -3,6 +3,8 @@
 A simple browser game where you play the classic XO (Tic-Tac-Toe) against a bot with 3 difficulty
 levels.
 
+[Demo](https://oxoxoxo.netlify.app/)
+
 ## 🎯 Features
 
 - Easy, Medium, and Hard bot modes
